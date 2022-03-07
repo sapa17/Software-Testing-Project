@@ -29,4 +29,8 @@ Version control software- TortoiseGit [download link](https://tortoisegit.org/do
  - After successfully cloning, import the file into Eclipse.
   - After every change right click on the repo folder follow these steps- pull, push, commit
   (Enter relevant note or comment as to what changes you did at the time of commit so that the rest of the team can understand)
+  - If u want to revert changes right click inside the repo folder select
+  
+    TortoiseGit > show log
+
 
