@@ -1,4 +1,4 @@
-package project.calculator;
+package com.Group22.app;
 
 public class Calc {
 
